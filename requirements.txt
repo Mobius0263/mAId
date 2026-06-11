@@ -1,0 +1,55 @@
+# AI Companion Project Dependencies
+
+# Core AI and ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+pillow>=9.0.0
+
+# HTTP requests for REST APIs (Gemini, web search, etc.)
+requests>=2.31.0
+
+# Audio processing (Whisper)
+openai-whisper>=20230314
+faster-whisper>=0.7.0
+pyaudio>=0.2.11
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+
+# Vision and image processing
+mss>=6.1.0
+opencv-python>=4.7.0
+easyocr>=1.7.0
+
+# Document processing
+python-docx>=0.8.11
+openpyxl>=3.1.0
+pandas>=2.0.0
+PyMuPDF>=1.22.0
+pypdf>=3.10.0
+python-pptx>=0.6.21
+pyyaml>=6.0
+
+# Web search and requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Scheduling and task management
+APScheduler>=3.10.0
+schedule>=1.2.0
+
+# File operations and utilities
+send2trash>=1.8.2
+watchdog>=3.0.0
+pathvalidate>=3.0.0
+
+# System integration
+psutil>=5.9.0
+plyer>=2.1.0
+
+# Development and testing
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional: Windows-specific notifications
+win10toast>=0.9.0

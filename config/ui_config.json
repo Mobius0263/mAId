@@ -1,0 +1,24 @@
+{
+  "font": {
+    "base_size": 14,
+    "scale_percentage": 150,
+    "min_scale": 50,
+    "max_scale": 300,
+    "family": "Segoe UI",
+    "code_family": "Consolas",
+    "input_scale": 0.9
+  },
+  "spacing": {
+    "chat_padding": 10,
+    "sidebar_padding": 20,
+    "line_spacing": 1.2
+  },
+  "colors": {
+    "primary": "#0078d4",
+    "success": "#107c10",
+    "warning": "#ff8c00",
+    "error": "#d13438",
+    "code_bg": "#1e1e1e",
+    "code_fg": "#d4d4d4"
+  }
+}
